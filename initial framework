@@ -1,0 +1,10 @@
+#this cell takes input and creates a list of all the movie inputs 
+n = int (input ("How many movies will you be choosing from?"));
+
+movies = [];
+
+for i in range(0,n):
+    x = raw_input ("Input movies.")
+    movies.append(x)  
+
+#at some point I'll have to randomize the inputs
