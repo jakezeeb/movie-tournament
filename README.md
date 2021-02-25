@@ -5,5 +5,7 @@ The end goal of this project is to create an app that would take submitted movie
 These movies would then be put in a march madness type bracket and the users would vote on 1v1 matchups.
 The intended use would be for a group trying to decide on what movie they want to watch.
 
+I am intending on using imdbs built in search algorithm to choose the correct movie and then just pull the movie poster from that page.
+
 In the longterm I would like to make it work with social media websites so data could be harvested on 
 what movies certain demographics like more than others.
